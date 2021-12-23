@@ -1,9 +1,7 @@
 # praktikum08
 
 # **PROGRAM INPUT NILAI MAHASISWA MENGGUNAKAN OOP**
-[![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/downloads/) 
-<br>
-[![instagram](media/nametag.png)](https://www.instagram.com/rezastein_) 
+
 
 
 
@@ -12,10 +10,6 @@
 
 ### **PENGERTIAN OOP**
 - **object-oriented-programing/OOP** adalah paradigma pemrograman berdasarkan konsep "objek", yang dapat berisi data, dalam bentuk field atau dikenal juga sebagai atribut; serta kode, dalam bentuk fungsi/prosedur atau dikenal juga sebagai method.
-
-**PRIVIEW PROGRAM**
-
-[![asciicast](https://asciinema.org/a/458162.svg)](https://asciinema.org/a/458162)
 
 
 ## **DESKRIPSI**
@@ -30,4 +24,4 @@
 4. di dalam statment *if elif else* di isikan dengan memanggil masing-masing method yang ada di dalam *class mahasiswa*.
 5. selesai
 ## **FLOWCHART**
-![eza](media/flowchart.png)
+![image](https://user-images.githubusercontent.com/92866211/147236003-e7ec4192-9bff-4e4b-a4e8-f8fde3028539.png)
